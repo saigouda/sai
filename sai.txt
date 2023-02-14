@@ -1,0 +1,8 @@
+sai krushna gouda
+ commands 
+1.git --version -(it shows the current version of git )
+2.git init -(it create an empty file)
+3.git config --global user.name “Your Name” -(give your user name)
+4.git config --global user.email “you@example.com”-(give your user email account)
+5.git config --global color.ui auto -(it shows diffirent color for diffrent command)
+6.
